@@ -1,0 +1,54 @@
+body,html{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+#homepage {
+	/*background-image: url("slider.jpg");
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-size:cover;
+	background-attachment:fixed;*/
+	width: 1080px;
+	height: 600px;
+	font-size: 16px;
+	color: black;
+}
+.container.h1{
+	font-size: 48px;
+}
+.jumbotron.text-center{
+	color: black;
+	background-image:url("f.jpg");
+	background-size:cover;
+	background-attachment:fixed;
+	width: auto;
+	height: auto;
+	margin-bottom: 0;
+}
+.glyphicon.glyphicon-home{
+	color: black;
+
+}
+.glyphicon.glyphicon-shopping-cart{
+	color: black;
+
+}
+.glyphicon.glyphicon-user{
+	color: black;
+
+}
+
+h4 {
+	font-weight: bold;
+}
+
+.navbar {
+	margin-bottom: 0;
+	background-color: #FBFBFB;
+	border: 0;
+	font-size: 18px !important;
+	letter-spacing: 2px;
+	opacity: 0.7;
+	color: black;
+}
