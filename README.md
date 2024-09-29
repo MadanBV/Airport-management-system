@@ -1,1 +1,1 @@
-# Airport-management-system
+The Airport database management system is a project which aims in developing a computerized system to perform functionalities like reserve, cancel flight tickets. It also provides scheduled flight details and travel information. The project aims at reducing the time required by the passenger/user to decide on the airlines that he/she want to air. He/she can easily navigate through the web pages and select the particular airlines he/she wishes to travel.
